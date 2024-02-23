@@ -37,3 +37,6 @@ console.log(droids.protocol);
 
 droids.assassin = 'IG-11';
 console.log(droids.assassin);
+
+
+console.log(starWarsVillains[0][6]);
